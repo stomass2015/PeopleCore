@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/people_bg.qm</file>
+        <file alias="de">locale/people_de.qm</file>
+        <file alias="en">locale/people_en.qm</file>
+        <file alias="es">locale/people_es.qm</file>
+        <file alias="fi">locale/people_fi.qm</file>
+        <file alias="fr">locale/people_fr.qm</file>
+        <file alias="it">locale/people_it.qm</file>
+        <file alias="ja">locale/people_ja.qm</file>
+        <file alias="pl">locale/people_pl.qm</file>
+        <file alias="pt">locale/people_pt.qm</file>
+        <file alias="ru">locale/people_ru.qm</file>
+        <file alias="sk">locale/people_sk.qm</file>
+        <file alias="sv">locale/people_sv.qm</file>
+        <file alias="vi">locale/people_vi.qm</file>
+        <file alias="zh_CN">locale/people_zh_CN.qm</file>
+        <file alias="zh_TW">locale/people_zh_TW.qm</file>
+    </qresource>
+</RCC>

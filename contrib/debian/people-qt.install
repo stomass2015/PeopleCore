@@ -1,0 +1,6 @@
+usr/local/bin/people-qt usr/bin
+share/pixmaps/people32.xpm usr/share/pixmaps
+share/pixmaps/people16.xpm usr/share/pixmaps
+share/pixmaps/people128.png usr/share/pixmaps
+debian/people-qt.desktop usr/share/applications
+debian/people-qt.protocol usr/share/kde4/services/
